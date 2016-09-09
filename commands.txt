@@ -1,0 +1,14 @@
+git add <filename.extension> (or . for all untracked files)//local/online add
+git commit -m "<message>" //commits changes and adds msg
+(git remote add origin master <url>) //adds to repository specified if not already
+git push (-u origin master //only needed if not logged on yet) //pushes changes
+git pull //pulls any changes
+cd <directory> //change directory folder
+vim <filename.ext> //opens file on cmd
+:x //saves changes and exits from cmd editor
+ls //lists files in directory
+git init //creates empty repository
+git clone <url> //clones repository from specified location
+
+git status //status
+git log //log of changes
